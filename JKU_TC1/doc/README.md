@@ -28,6 +28,14 @@ mmWave RF structures generated with a custom python script using GDSFactory.
 
 - Ratrace
 
+### Simulation Results
+
+See `JKU_TC1/doc/rf_sim/`
+
+### S-Parameter Measurement Results
+
+See `JKU_TC1/doc/rf_meas.zip`
+
 ### Issues
 
 #### Mom Capacitors
